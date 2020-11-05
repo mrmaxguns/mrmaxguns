@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![mrmaxguns' github stats](https://github-readme-stats.vercel.app/api?username=mrmaxguns&show_icons=true&theme=radical)
+
 ### 🔭 I’m currently working on...
 
 ... [A python package designed to make document synchronization a breeze :wind_chime:](https://github.com/mrmaxguns/synchro)
