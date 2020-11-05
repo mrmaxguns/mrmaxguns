@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### 👯 I’m looking to collaborate on...
 
-... [Synchro]((https://github.com/mrmaxguns/synchro). All contributions are welcome!
+... [Synchro](https://github.com/mrmaxguns/synchro). All contributions are welcome!
 
 ### 💬 Ask me about...
 
