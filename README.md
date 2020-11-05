@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello, I'm Maxim :blush:
 
 <!--
 **mrmaxguns/mrmaxguns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🔭 I’m currently working on...
+
+... [A python package designed to make document synchronization a breeze :wind_chime:](https://github.com/mrmaxguns/synchro)
+
+### 🌱 I’m currently learning...
+
+... about different algorithms and their implementations. I hope to soon start learning about compilers and interpreters.
+
+### 👯 I’m looking to collaborate on...
+
+... [Synchro]((https://github.com/mrmaxguns/synchro). All contributions are welcome!
+
+### 💬 Ask me about...
+
+... writing clean (PEP-compliant) Python code, writing tests, object-oriented programming and more! :computer:
+
+### 📫 How to reach me: ...
+
+ * Reach me at mrmaxguns@gmail.com
+ * Or by @mentioning me on GitHub
+
