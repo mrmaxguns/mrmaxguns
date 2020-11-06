@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on...
 
-... [A python package designed to make document synchronization a breeze :wind_chime:](https://github.com/mrmaxguns/synchro)
+... [The GitHub Gameoff :space_invader:](https://github.blog/2020-11-01-github-game-off-2020-theme-announcement/)
 
 ### 🌱 I’m currently learning...
 
