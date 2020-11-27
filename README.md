@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on...
 
-... [The GitHub Gameoff :space_invader:](https://github.blog/2020-11-01-github-game-off-2020-theme-announcement/)
+... A new game with Pygame :space_invader:
 
 ### 🌱 I’m currently learning...
 
