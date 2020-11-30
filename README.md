@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me: ...
 
- * Reach me at mrmaxguns@gmail.com
+ * If you have questions related to coding, reach me by submitting an issue at [my repository](https://github.com/mrmaxguns/mrmaxguns/issues/new)
+ * Otherwise, email me at mrmaxguns@gmail.com.
  * Or by @mentioning me on GitHub
 
