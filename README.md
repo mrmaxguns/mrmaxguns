@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on...
 
-... A new game with Pygame :space_invader:
+... Writing documentation
 
 ### 🌱 I’m currently learning...
 
-... about different algorithms and their implementations. I hope to soon start learning about compilers and interpreters.
+... about game development.
 
 ### 👯 I’m looking to collaborate on...
 
-... [Synchro](https://github.com/mrmaxguns/synchro). All contributions are welcome!
+... [Synchro](https://github.com/mrmaxguns/synchro) and [Wonderwords](https://github.com/mrmaxguns/wonderwordsmodule). All contributions are welcome!
 
 ### 💬 Ask me about...
 
-... writing clean (PEP-compliant) Python code, writing tests, object-oriented programming and more! :computer:
+... anything about Python, writing tests, object-oriented programming, creating documentation and more! :computer:
 
 ### 📫 How to reach me: ...
 
