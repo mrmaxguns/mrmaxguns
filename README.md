@@ -19,23 +19,29 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on...
 
-... Writing documentation
+... Web application development. Check out my latest project, [Dracona](https://github.com/mrmaxguns/Dracona).
 
 ### 🌱 I’m currently learning...
 
-... about game development.
+... the C language.
 
 ### 👯 I’m looking to collaborate on...
 
-... [Synchro](https://github.com/mrmaxguns/synchro) and [Wonderwords](https://github.com/mrmaxguns/wonderwordsmodule). All contributions are welcome!
+... [Wonderwords](https://github.com/mrmaxguns/wonderwordsmodule). All contributions are welcome!
 
 ### 💬 Ask me about...
 
-... anything about Python, writing tests, object-oriented programming, creating documentation and more! :computer:
+... any of the following topics
+
+- Python
+- Writing tests
+- Object-oriented programming
+- Writing documentation
+- Web development
 
 ### 📫 How to reach me: ...
 
  * If you have questions related to coding, reach me by opening a discussion at [my repository](https://github.com/mrmaxguns/mrmaxguns/discussions/new)
  * Otherwise, email me at mrmaxguns@gmail.com.
- * Or by @mentioning me on GitHub
+ * Or @mention me on GitHub
 
