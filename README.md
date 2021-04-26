@@ -32,6 +32,7 @@ Coding-related:
 - HTML/CSS
   - Also have knowledge of the Bootstrap framework
 - Writing documentation (Mkdocs, Sphinx)
+- Linux-kernel-based operating systems, Bash, Zsh
 - Minimal experience with Godot
 - Am a member of the @TheAlgorithms organization and have contributed to the website and Python repo
 - The LaTeX typesetting system
