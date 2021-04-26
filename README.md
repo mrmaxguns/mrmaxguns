@@ -17,6 +17,37 @@ Here are some ideas to get you started:
 
 ![mrmaxguns' github stats](https://github-readme-stats.vercel.app/api?username=mrmaxguns&show_icons=true&theme=radical)
 
+### Skills
+
+Coding-related:
+
+- Python
+  - Procedural and Object-oriented programming
+  - Backend development: Django, Flask
+  - Python package management
+  - Extensive knowledge of the standard library
+- JavaScript
+  - NodeJS and browser-based
+  - Frontend development with vanilla and a little bit of Vue
+- HTML/CSS
+  - Also have knowledge of the Bootstrap framework
+- Writing documentation (Mkdocs, Sphinx)
+- Minimal experience with Godot
+- Am a member of the @TheAlgorithms organization and have contributed to the website and Python repo
+- The LaTeX typesetting system
+- Git and GitHub
+
+Other:
+
+- Mountain biking
+- XPlane flight simulator
+
+### My favorite projects
+
+- ChatPad: A web chat application
+- Wonderwords: A random word generation library
+- Synchro: Implementation of various synchronization algorithms
+
 ### 🔭 I’m currently working on...
 
 ... Web application development. Check out my latest project, [Dracona](https://github.com/mrmaxguns/Dracona).
