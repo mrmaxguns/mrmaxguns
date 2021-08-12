@@ -22,17 +22,10 @@ Here are some ideas to get you started:
 Coding-related:
 
 - Python
-  - Procedural and Object-oriented programming
-  - Backend development: Django, Flask
-  - Python package management
-  - Extensive knowledge of the standard library
 - JavaScript
-  - NodeJS and browser-based
-  - Frontend development with vanilla and a little bit of Vue
 - HTML/CSS
-  - Also have knowledge of the Bootstrap framework
 - Writing documentation (Mkdocs, Sphinx)
-- Linux-kernel-based operating systems, Bash, Zsh
+- GNU/Linux operating systems, Bash, Zsh
 - Minimal experience with Godot
 - Am a member of the @TheAlgorithms organization and have contributed to the website and Python repo
 - The LaTeX typesetting system
@@ -51,7 +44,7 @@ Other:
 
 ### 🔭 I’m currently working on...
 
-... Web application development. Check out my latest project, [Dracona](https://github.com/mrmaxguns/Dracona).
+... My blog
 
 ### 🌱 I’m currently learning...
 
@@ -74,6 +67,4 @@ Other:
 ### 📫 How to reach me: ...
 
  * If you have questions related to coding, reach me by opening a discussion at [my repository](https://github.com/mrmaxguns/mrmaxguns/discussions/new)
- * Otherwise, email me at mrmaxguns@gmail.com.
- * Or @mention me on GitHub
-
+ * See my webiste: https://mrmaxguns.github.io
