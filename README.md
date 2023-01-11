@@ -17,13 +17,24 @@ Here are some ideas to get you started:
 
 ![mrmaxguns' github stats](https://github-readme-stats.vercel.app/api?username=mrmaxguns&show_icons=true&theme=radical)
 
-### Skills
+### Skills/Hobbies
 
-Coding-related:
+#### Coding-related:
 
+Programming/Scripting Languages:
 - Python
-- JavaScript
+- JavaScript/ECMAScript
+- C
+- Java
+- Bash
+
+Other Languages:
 - HTML/CSS
+- Markdown
+- JSON
+- Make
+
+Skills:
 - Writing documentation (Mkdocs, Sphinx)
 - GNU/Linux operating systems, Bash, Zsh
 - Minimal experience with Godot
@@ -31,20 +42,22 @@ Coding-related:
 - The LaTeX typesetting system
 - Git and GitHub
 
-Other:
+#### Other:
 
 - Mountain biking
 - XPlane flight simulator
+- Theatre
 
 ### My favorite projects
 
 - ChatPad: A web chat application
 - Wonderwords: A random word generation library
 - Synchro: Implementation of various synchronization algorithms
+- MaxBF: A Brainfuck interpreter
 
 ### 🔭 I’m currently working on...
 
-... My blog
+... MaxBF
 
 ### 🌱 I’m currently learning...
 
