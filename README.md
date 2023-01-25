@@ -1,5 +1,7 @@
 # [Hello, I'm Maxim](https://mrmaxguns.github.io) :blush:
 
+Also on SourceHut as [~mrmaxguns](https://sr.ht/~mrmaxguns/)
+
 <!--
 **mrmaxguns/mrmaxguns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
