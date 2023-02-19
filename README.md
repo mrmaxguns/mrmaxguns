@@ -57,7 +57,7 @@ Skills:
 
 ### 🔭 I’m currently working on...
 
-... MaxBF
+... Chyess
 
 ### 🌱 I’m currently learning...
 
@@ -65,7 +65,7 @@ Skills:
 
 ### 👯 I’m looking to collaborate on...
 
-... [Wonderwords](https://github.com/mrmaxguns/wonderwordsmodule). All contributions are welcome!
+... [MaxBF](https://github.com/mrmaxguns/MaxBF). All contributions are welcome!
 
 ### 💬 Ask me about...
 
